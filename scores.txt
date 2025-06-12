@@ -1,0 +1,9 @@
+eman,120,120
+
+Neha,10,120
+namra,20,120
+rashida,100,120
+eman,110,120
+eman,100,120
+neha,20,120
+neha,50,120
